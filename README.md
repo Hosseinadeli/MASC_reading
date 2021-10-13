@@ -43,7 +43,7 @@ For an implementation of MASC in python refer to https://github.com/Hosseinadeli
 
 
 -------------------------------------------------------------------------------------------------------
-
-<img src="https://raw.githubusercontent.com/hosseinadeli/MASC_reading/main/figures/vid_L1B1_10.bmp/L1B1_10.bmp_timesteps8.gif">
+<img src="https://github.com/Hosseinadeli/MASC_reading/blob/main/figures/vid_L1B1_10.bmp/L1B1_10.bmp_timesteps8.gif">
+<!-- #<img src="https://raw.githubusercontent.com/hosseinadeli/MASC_reading/main/figures/vid_L1B1_10.bmp/L1B1_10.bmp_timesteps8.gif"> -->
 
 <img src="https://raw.githubusercontent.com/hosseinadeli/MASC_reading/main/figures/vid_L1B1_10.bmp/image02.png">
