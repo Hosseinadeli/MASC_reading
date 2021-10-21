@@ -13,7 +13,7 @@ Adeli, H., Ahn, S., & Zelinsky, G. (2021). Recurrent Attention Models with Objec
 }
  -->
 
-The behavioral data, analyses and supplemetary material refer to this Zenodo link. 
+The behavioral data, analyses and supplemetary material are provided in this Zenodo link. 
 
 -------------------------------------------------------------------------------------------------------
 
@@ -61,7 +61,7 @@ For an implementation of MASC in python refer to https://github.com/Hosseinadeli
 
 <img src="https://github.com/Hosseinadeli/MASC_reading/blob/main/figures/vid_L1B1_15.bmp/L1B1_15.bmp_timesteps8.gif">
 
-[Hossein Adeli](https://hosseinadeli.github.io/), <br/>
+[Hossein Adeli](https://hosseinadeli.github.io/)<br/>
 hossein.adelijelodar@gmail.com 
 
 -------------------------------------------------------------------------------------------------------
