@@ -1,10 +1,7 @@
-# MASC (Model of Attention in Superior Colliculus)
-MASC toolbox for predicting eye-movements during reading  
+# MASC Reading 
+MASC (Model of Attention in Superior Colliculus) toolbox for predicting eye-movements during reading  
 
-
-[Hossein Adeli](https://hosseinadeli.github.io/) and [Seoyoung Ahn](https://ahnchive.github.io/)
-
-Please cite this article if you find this repository useful:
+<!-- Please cite this article if you find this repository useful:
 
 Adeli, H., Ahn, S., & Zelinsky, G. (2021). Recurrent Attention Models with Object-centric Capsule Representation for Multi-object Recognition. arXiv preprint arXiv:2110.04954. [[arxiv](https://arxiv.org/abs/2110.04954)][[pdf](https://arxiv.org/pdf/2110.04954.pdf)] <br/>
 
@@ -14,7 +11,9 @@ Adeli, H., Ahn, S., & Zelinsky, G. (2021). Recurrent Attention Models with Objec
 &nbsp;&nbsp;journal={arXiv preprint arXiv:2110.04954},<br/>
 &nbsp;&nbsp;year={2021}<br/>
 }
+ -->
 
+The behavioral data, analyses and supplemetary material refer to this Zenodo link. 
 
 -------------------------------------------------------------------------------------------------------
 
@@ -49,12 +48,14 @@ For an implementation of MASC in python refer to https://github.com/Hosseinadeli
 
 -------------------------------------------------------------------------------------------------------
 <img src="https://github.com/Hosseinadeli/MASC_reading/blob/main/figures/vid_L1B1_10.bmp/L1B1_10.bmp_timesteps8.gif">
+
 <!-- #<img src="https://raw.githubusercontent.com/hosseinadeli/MASC_reading/main/figures/vid_L1B1_10.bmp/L1B1_10.bmp_timesteps8.gif"> -->
 
-<img src="https://raw.githubusercontent.com/hosseinadeli/MASC_reading/main/figures/vid_L1B1_10.bmp/image02.png">
+<!-- <img src="https://raw.githubusercontent.com/hosseinadeli/MASC_reading/main/figures/vid_L1B1_10.bmp/image02.png"> -->
 
+<img src="https://github.com/Hosseinadeli/MASC_reading/blob/main/figures/vid_L1B1_14.bmp/L1B1_14.bmp_timesteps8.gif">
 
-
+<img src="https://github.com/Hosseinadeli/MASC_reading/blob/main/figures/vid_L1B1_15.bmp/L1B1_15.bmp_timesteps8.gif">
 
 [Hossein Adeli](https://hosseinadeli.github.io/), <br/>
 hossein.adelijelodar@gmail.com 
