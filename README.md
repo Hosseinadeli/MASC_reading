@@ -3,8 +3,7 @@
 MASC toolbox for predicting eye-movements during reading  
 
 
-[Hossein Adeli](https://hosseinadeli.github.io/),
-hossein.adelijelodar@gmail.com 
+
 
 This demo shows how to use MASC to simulate eye movement during reading single sentences.
 
@@ -40,7 +39,8 @@ Adeli, H., Vitu, F., & Zelinsky, G. J. (2017). A model of the superior colliculu
 For an implementation of MASC in python refer to https://github.com/Hosseinadeli/MASC_py
 
 
-
+[Hossein Adeli](https://hosseinadeli.github.io/),
+hossein.adelijelodar@gmail.com 
 
 -------------------------------------------------------------------------------------------------------
 <img src="https://github.com/Hosseinadeli/MASC_reading/blob/main/figures/vid_L1B1_10.bmp/L1B1_10.bmp_timesteps8.gif">
