@@ -13,7 +13,9 @@ Adeli, H., Ahn, S., & Zelinsky, G. (2021). Recurrent Attention Models with Objec
 }
  -->
 
-The behavioral data, analyses and supplemetary material are provided in this Zenodo link. 
+The behavioral data, analyses and supplemetary material are provided in this link:
+
+[Predicting readers' prototypical eye-movement behavior using MASC, a model of Attention in the Superior Colliculus: Stimulus materials, model code, data, and statistical analyses.](https://zenodo.org/record/5338616#.YXGdbRrMLcs)
 
 -------------------------------------------------------------------------------------------------------
 
@@ -40,7 +42,7 @@ Using the implementation from this library to compute the Itti-Koch saliency map
 
 MASC_core is a model of the SC. It can accept a saliency (priority) map and generate eye-movements. Depending on the sources of the map, it can generate fixations during free viewing, visual search or reading.
 
-MASC_core takes the priority map and the current fixation location as input and generates the next fixation location. To learn more about MASC and on how to apply the model to predict eye-movements during visual search and scene free viewing.
+MASC_core takes the priority map and the current fixation location as input and generates the next fixation location. To learn more about MASC and on how to apply the model to predict eye-movements during visual search and scene free viewing, refer to:
 
 Adeli, H., Vitu, F., & Zelinsky, G. J. (2017). A model of the superior colliculus predicts fixation locations during scene viewing and visual search. Journal of Neuroscience, 37(6), 1453-1467. http://www.jneurosci.org/content/37/6/1453
 
