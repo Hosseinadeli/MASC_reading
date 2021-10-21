@@ -71,5 +71,9 @@ Code references:
 
 These two libraries are used for visualizing and saving scanpaths:
 
-1) [export_fig](https://www.mathworks.com/matlabcentral/fileexchange/23629-export-fig) <br/>
-2) [arrow](https://www.mathworks.com/matlabcentral/fileexchange/278-arrow)
+
+1) [svistoolbox-1.0.5  Space Variant Imaging System](http://svi.cps.utexas.edu/software.shtml) <br/>
+2) [GBVS toolbox](http://www.vision.caltech.edu/~harel/share/gbvs.zip) <br/>
+3) [export_fig](https://www.mathworks.com/matlabcentral/fileexchange/23629-export-fig) <br/>
+4) [arrow](https://www.mathworks.com/matlabcentral/fileexchange/278-arrow) <br/>
+
